@@ -1,0 +1,14 @@
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.exe
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.deps.json
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.runtimeconfig.json
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.runtimeconfig.dev.json
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.dll
+C:\Users\alireza\source\repos\montyHall\montyHall\bin\Debug\netcoreapp3.1\montyHall.pdb
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.csprojAssemblyReference.cache
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.AssemblyInfoInputs.cache
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.AssemblyInfo.cs
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.csproj.CoreCompileInputs.cache
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.dll
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.pdb
+C:\Users\alireza\source\repos\montyHall\montyHall\obj\Debug\netcoreapp3.1\montyHall.genruntimeconfig.cache

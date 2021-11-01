@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "O8F9EPDBZxyZcPaTUr0L14wAAEvLSM8aULITPMo5BjfwJxNyQKoxvP3l2xVe0mTyK7ypGNdLBMgwqg8tSFAzrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alireza\\source\\repos\\montyHall\\montyHall\\montyHall.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alireza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\alireza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
